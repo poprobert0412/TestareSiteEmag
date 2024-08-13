@@ -18,3 +18,5 @@ class SiteEmag(unittest.TestCase):
 
     def tearDown(self):#Codul care o sa ruleze la sfarsitul testarii
         self.chrome.quit()
+
+    def test_
